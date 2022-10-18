@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Combo&display=swap");
+
+:root{
+    --primary-color:#035862;
+}
+
+body{
+    margin: 0;
+    font-family: "Combo", cursive;
+
+}
+
+
+.center-content{
+    text-align: center;
+    margin:auto;
+}
+
+/* h1{
+    font-size: x-large;
+} */
+nav{
+    background-color:var(--primary-color) ;
+    padding: 2rem;
+}
+
+.textspace{
+    margin-top:1rem;
+    width: 600px;
+    height: 15vh;
+    padding: 1rem;
+    border: 2px solid #035862;
+}
+
+.btn{
+    border-top-left-radius:1rem ;
+    border-bottom-right-radius: 1rem;
+    padding: 0.3rem;
+    margin-bottom: 1rem;
+    color: #035862;
+}
+.output{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+
+footer{
+    margin-top: 2rem;
+    background-color:var(--primary-color);
+    padding: 3rem;
+
+    /* margin: 10rem; */
+}
+
+/* section{
+    margin-top: 100px;
+    /* margin-top: 50rem; */
+} */
+
+
+
+
