@@ -16,9 +16,10 @@ body{
     margin:auto;
 }
 
-/* h1{
-    font-size: x-large;
-} */
+h1{
+    /* font-size: x-large; */
+    color: white;
+}
 nav{
     background-color:var(--primary-color) ;
     padding: 2rem;
@@ -49,14 +50,11 @@ footer{
     margin-top: 2rem;
     background-color:var(--primary-color);
     padding: 3rem;
+    color: white;
 
     /* margin: 10rem; */
 }
 
-/* section{
-    margin-top: 100px;
-    /* margin-top: 50rem; */
-} */
 
 
 
