@@ -11,3 +11,5 @@
 3. JavaScript
 4. Netlify(for deployment)
 
+<img src="images/image.png" height="30%" width="50%">
+
